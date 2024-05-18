@@ -31,11 +31,11 @@ This project is licensed under the [GNU License](LICENSE).
 
 ## Screenshots
 
-![Screenshot 1](screenshots/01.jpg)
-![Screenshot 2](screenshots/02.jpg)
-![Screenshot 27](screenshots/03.jpg)
-![Screenshot 1](screenshots/04.jpg)
-![Screenshot 2](screenshots/05.jpg)
-![Screenshot 27](screenshots/06.jpg)
+![Screenshot 1](Screenshots/01.jpg)
+![Screenshot 2](Screenshots/02.jpg)
+![Screenshot 27](Screenshots/03.jpg)
+![Screenshot 1](Screenshots/04.jpg)
+![Screenshot 2](Screenshots/05.jpg)
+![Screenshot 27](Screenshots/06.jpg)
 
 You can find more screenshots in the [screenshots](screenshots) folder.
