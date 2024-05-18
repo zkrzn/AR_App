@@ -1,4 +1,4 @@
-# AR_App
+# Augmented Reality Android Application with Unity 3D & Vuforia
 
 This repository contains a basic Android application with Augmented Reality (AR) features.
 
